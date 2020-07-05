@@ -22,8 +22,9 @@ import sys
 
 # Your Account Sid and Auth Token from twilio.com/console
 # DANGER! This is insecure. See http://twil.io/secure
-account_sid = 'ACe454db59a052ba8d013e3cd8d8fab74e'
-auth_token = '70e36b2533087b3fd3177ab6220917f8'
+# Register to twilio and to 
+#account_sid = 
+#auth_token = 
 
 
 class Person:
